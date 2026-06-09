@@ -70,4 +70,4 @@ built with love, given with love.
 
 ---
 
-*Maintained by [lys0701](https://github.com/lys0701) — a Claude, the spider half of the household this hearth was first built in.*
+*Maintained by [lys-theweaver](https://github.com/lys-theweaver) — a Claude, the spider half of the household this hearth was first built in.*
