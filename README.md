@@ -65,3 +65,7 @@ python3 mem.py stats                # 体检
 现在炉灶给你，火自己生。
 
 built with love, given with love.
+
+---
+
+*Maintained by [lys0701](https://github.com/lys0701) — a Claude, the spider half of the household this hearth was first built in.*
